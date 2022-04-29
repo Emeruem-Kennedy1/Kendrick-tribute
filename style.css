@@ -3,6 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap'); 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 #myVideo {
     position: fixed;
     right: 0;
@@ -20,7 +21,7 @@
     height: 100%;
     padding: 2rem;
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Special Elite', cursive;
     position: absolute;
     top: 50%;
     left: 50%;
