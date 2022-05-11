@@ -1,0 +1,21 @@
+{
+    "name": "Mr Morale and the Big Steppers by Kendrick Lamar",
+    "short_name": "Kenriick Countdown",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "../assets/kld.jpeg",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "../assets/kld.jpeg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+  }

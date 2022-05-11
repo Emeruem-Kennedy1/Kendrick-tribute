@@ -36,5 +36,10 @@ function remainingTime() {
     }
 };
 
+if ("serviceWorker" in navigator) {
+    // register service worker
+    navigator.serviceWorker.register("service-worker.js");
+  }
+
 remainingTime();
 setInterval(remainingTime, 1000);
